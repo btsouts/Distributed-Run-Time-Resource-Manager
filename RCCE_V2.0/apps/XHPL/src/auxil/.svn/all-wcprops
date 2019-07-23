@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/auxil
+END
+HPL_dlatcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/auxil/HPL_dlatcpy.c
+END
+HPL_dlaprnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/auxil/HPL_dlaprnt.c
+END
+HPL_abort.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/auxil/HPL_abort.c
+END
+HPL_warn.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/auxil/HPL_warn.c
+END
+HPL_dlamch.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/auxil/HPL_dlamch.c
+END
+HPL_fprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/auxil/HPL_fprintf.c
+END
+HPL_dlange.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/auxil/HPL_dlange.c
+END
+HPL_dlacpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/auxil/HPL_dlacpy.c
+END

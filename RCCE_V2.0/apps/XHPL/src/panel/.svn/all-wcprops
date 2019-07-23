@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/panel
+END
+HPL_pdpanel_new.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/panel/HPL_pdpanel_new.c
+END
+HPL_pdpanel_disp.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/panel/HPL_pdpanel_disp.c
+END
+HPL_pdpanel_free.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/panel/HPL_pdpanel_free.c
+END
+HPL_pdpanel_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/panel/HPL_pdpanel_init.c
+END

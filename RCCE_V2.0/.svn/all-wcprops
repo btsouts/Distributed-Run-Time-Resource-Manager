@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0
+END
+run_stress_test
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/run_stress_test
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/COPYING
+END
+sourcing
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/sourcing
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/README
+END
+build_stress_test
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/build_stress_test
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/configure
+END

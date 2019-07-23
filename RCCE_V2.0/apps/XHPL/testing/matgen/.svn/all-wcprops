@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/matgen
+END
+HPL_setran.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/matgen/HPL_setran.c
+END
+HPL_dmatgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/matgen/HPL_dmatgen.c
+END
+HPL_xjumpm.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/matgen/HPL_xjumpm.c
+END
+HPL_ladd.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/matgen/HPL_ladd.c
+END
+HPL_rand.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/matgen/HPL_rand.c
+END
+HPL_jumpit.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/matgen/HPL_jumpit.c
+END
+HPL_lmul.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/matgen/HPL_lmul.c
+END

@@ -1,0 +1,8 @@
+	linux-gate.so.1 =>  (0xf7751000)
+	librt.so.1 => /lib32/librt.so.1 (0xf7726000)
+	libm.so.6 => /lib32/libm.so.6 (0xf7700000)
+	libgcc_s.so.1 => /usr/lib32/libgcc_s.so.1 (0xf76e0000)
+	libc.so.6 => /lib32/libc.so.6 (0xf7580000)
+	libdl.so.2 => /lib32/libdl.so.2 (0xf757c000)
+	libpthread.so.0 => /lib32/libpthread.so.0 (0xf7563000)
+	/lib/ld-linux.so.2 (0xf7752000)

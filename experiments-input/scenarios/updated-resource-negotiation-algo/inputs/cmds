@@ -1,0 +1,12 @@
+./replicate_inputs_workload.py 128 app_input_idag_conf_2_2_full_higher.txt 4
+herc@mitsos:/shared/herc/drtrm-multiple-apps/scenaria/8x6_journal_svm_4096_4096_4x/inputs$ ./replicate_inputs_workload.py 128 app_input_idag_conf_2_3_full_higher.txt 4
+herc@mitsos:/shared/herc/drtrm-multiple-apps/scenaria/8x6_journal_svm_4096_4096_4x/inputs$ ./replicate_inputs_workload.py 128 app_input_idag_conf_2_4_full_higher.txt 4
+herc@mitsos:/shared/herc/drtrm-multiple-apps/scenaria/8x6_journal_svm_4096_4096_4x/inputs$ ./replicate_inputs_workload.py 128 app_input_idag_conf_2_1_rr_higher.txt 4
+herc@mitsos:/shared/herc/drtrm-multiple-apps/scenaria/8x6_journal_svm_4096_4096_4x/inputs$ ./replicate_inputs_workload.py 128 app_input_idag_conf_2_2_rr_higher.txt 4
+herc@mitsos:/shared/herc/drtrm-multiple-apps/scenaria/8x6_journal_svm_4096_4096_4x/inputs$ ./replicate_inputs_workload.py 128 app_input_idag_conf_2_3_rr_higher.txt 4
+herc@mitsos:/shared/herc/drtrm-multiple-apps/scenaria/8x6_journal_svm_4096_4096_4x/inputs$ ./replicate_inputs_workload.py 128 app_input_idag_conf_2_4_rr_higher.txt 4
+herc@mitsos:/shared/herc/drtrm-multiple-apps/scenaria/8x6_journal_svm_4096_4096_4x/inputs$ ./replicate_inputs_workload.py 128 app_input_idag_conf_2_1_max_dist_higher.txt 4
+herc@mitsos:/shared/herc/drtrm-multiple-apps/scenaria/8x6_journal_svm_4096_4096_4x/inputs$ ./replicate_inputs_workload.py 128 app_input_idag_conf_2_2_max_dist_higher.txt 4
+herc@mitsos:/shared/herc/drtrm-multiple-apps/scenaria/8x6_journal_svm_4096_4096_4x/inputs$ ./replicate_inputs_workload.py 128 app_input_idag_conf_2_3_max_dist_higher.txt 4
+herc@mitsos:/shared/herc/drtrm-multiple-apps/scenaria/8x6_journal_svm_4096_4096_4x/inputs$ ./replicate_inputs_workload.py 128 app_input_idag_conf_2_4_max_dist_higher.txt 4
+

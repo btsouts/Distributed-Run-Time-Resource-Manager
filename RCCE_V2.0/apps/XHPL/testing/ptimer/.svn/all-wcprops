@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/ptimer
+END
+HPL_ptimer_cputime.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/ptimer/HPL_ptimer_cputime.c
+END
+HPL_ptimer_walltime.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/ptimer/HPL_ptimer_walltime.c
+END
+HPL_ptimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/ptimer/HPL_ptimer.c
+END

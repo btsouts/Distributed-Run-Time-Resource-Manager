@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/HELLO
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/HELLO/Makefile
+END
+RCCE_hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/HELLO/RCCE_hello.c
+END

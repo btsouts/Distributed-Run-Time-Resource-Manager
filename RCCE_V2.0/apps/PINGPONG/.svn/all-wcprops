@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/PINGPONG
+END
+RCCE_pingpong-xt.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/PINGPONG/RCCE_pingpong-xt.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/PINGPONG/Makefile
+END
+RCCE_pingpong.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/PINGPONG/RCCE_pingpong.c
+END

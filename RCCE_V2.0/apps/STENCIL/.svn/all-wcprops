@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/STENCIL
+END
+RCCE_stencil_synch.c-orig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/STENCIL/RCCE_stencil_synch.c-orig
+END
+RCCE_stencil_synch.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/STENCIL/RCCE_stencil_synch.c
+END
+RCCE_Fdiv.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/STENCIL/RCCE_Fdiv.c
+END
+run_stencil
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/STENCIL/run_stencil
+END
+RCCE_FV.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/STENCIL/RCCE_FV.c
+END
+run_stencil_synch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/STENCIL/run_stencil_synch
+END
+RCCE_power_reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/STENCIL/RCCE_power_reset.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/STENCIL/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/STENCIL/README
+END
+RCCE_pstencil.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/STENCIL/RCCE_pstencil.c
+END
+RCCE_stencil.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/STENCIL/RCCE_stencil.c
+END

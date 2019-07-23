@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/config
+END
+suite.def.template
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/config/suite.def.template
+END
+make.def.template
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/config/make.def.template
+END
+make.dummy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/config/make.dummy
+END
+make.def
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/config/make.def
+END

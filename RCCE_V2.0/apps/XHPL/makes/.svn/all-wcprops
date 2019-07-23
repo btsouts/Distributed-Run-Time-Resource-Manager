@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes
+END
+Make.matgen
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes/Make.matgen
+END
+Make.test
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes/Make.test
+END
+Make.timer
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes/Make.timer
+END
+Make.blas
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes/Make.blas
+END
+Make.auxil
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes/Make.auxil
+END
+Make.pgesv
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes/Make.pgesv
+END
+Make.grid
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes/Make.grid
+END
+Make.pmatgen
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes/Make.pmatgen
+END
+Make.comm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes/Make.comm
+END
+Make.pfact
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes/Make.pfact
+END
+Make.ptest
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes/Make.ptest
+END
+Make.panel
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes/Make.panel
+END
+Make.ptimer
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes/Make.ptimer
+END
+Make.units
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes/Make.units
+END
+Make.pauxil
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes/Make.pauxil
+END
+Make.gesv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/makes/Make.gesv
+END

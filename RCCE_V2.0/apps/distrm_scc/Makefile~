@@ -1,0 +1,40 @@
+#
+# Makefile
+#
+# DistRM
+#
+
+CC = gcc
+CFLAGS = -O0 -Wall -g #-Wextra
+
+#distrm.o: initial.c distrm.h libfunctions.h
+#	$(CC) $(CFLAGS) -o distrm.o
+distrm: distrm.o libfun.o nocfun.o sigaux.o idle_agent.o common_node.o signal_handlers.o
+	$(CC) $(CFLAGS) -o distrm distrm.o libfun.o nocfun.o sigaux.o idle_agent.o common_node.o signal_handlers.o -lrt -lm
+
+nocfun.o: noc_functions.c noc_functions.h distrm.h	
+	$(CC) $(CFLAGS) -o nocfun.o -c noc_functions.c
+
+libfun.o: libfunctions.c libfunctions.h distrm.h
+	$(CC) $(CFLAGS) -o libfun.o -c libfunctions.c
+
+sigaux.o: sig_aux.c sig_aux.h distrm.h signal_handlers.h
+	$(CC) $(CFLAGS) -o sigaux.o -c sig_aux.c
+
+idle_agent.o: idle_agent.c idle_agent.h libfunctions.h distrm.h noc_functions.h sig_aux.h signal_handlers.h
+	$(CC) $(CFLAGS) -o idle_agent.o -c idle_agent.c
+
+common_node.o: common_node.c common_node.h libfunctions.h distrm.h noc_functions.h sig_aux.h signal_handlers.h
+	$(CC) $(CFLAGS) -o common_node.o -c common_node.c
+
+distrm.o: distrm.c libfunctions.h distrm.h noc_functions.h sig_aux.h idle_agent.h common_node.h signal_handlers.h
+	$(CC) $(CFLAGS) -o distrm.o -c distrm.c
+
+signal_handlers.o: signal_handlers.c libfunctions.h distrm.h noc_functions.h sig_aux.h
+	$(CC) $(CFLAGS) -o signal_handlers.o -c signal_handlers.c
+
+clean:
+	rm -f distrm distrm.o libfun.o nocfun.o sigaux.o common_node.o idle_agent.o signal_handlers.o
+
+clean_pipes:
+	rm -f ./pipes/*

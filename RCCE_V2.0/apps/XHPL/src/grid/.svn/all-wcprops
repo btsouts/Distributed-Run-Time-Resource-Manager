@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/grid
+END
+HPL_grid_exit.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/grid/HPL_grid_exit.c
+END
+HPL_all_reduce.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/grid/HPL_all_reduce.c
+END
+HPL_pnum.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/grid/HPL_pnum.c
+END
+HPL_grid_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/grid/HPL_grid_info.c
+END
+HPL_broadcast.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/grid/HPL_broadcast.c
+END
+HPL_min.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/grid/HPL_min.c
+END
+HPL_sum.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/grid/HPL_sum.c
+END
+HPL_max.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/grid/HPL_max.c
+END
+HPL_barrier.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/grid/HPL_barrier.c
+END
+HPL_reduce.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/grid/HPL_reduce.c
+END
+HPL_grid_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/grid/HPL_grid_init.c
+END

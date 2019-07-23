@@ -1,0 +1,248 @@
+#include <errno.h>
+#include <unistd.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <signal.h>
+
+#include "sig_aux.h"
+
+/* Disable delivery of SIG_INIT and SIG_ACK. */
+void
+signals_disable(void)
+{
+	sigset_t sigset;
+
+	sigemptyset(&sigset);
+	/*sigaddset(&sigset, SIG_INIT);
+	sigaddset(&sigset, SIG_ACK);
+	sigaddset(&sigset, SIG_TERMINATE);
+	sigaddset(&sigset, SIG_INIT_APP);
+	sigaddset(&sigset, SIG_IDAG_FIND_IDAGS);
+	sigaddset(&sigset, SIG_REQ_DDS);
+	sigaddset(&sigset, SIG_REQ_CORES);
+	sigaddset(&sigset, SIG_REP_OFFERS);
+	sigaddset(&sigset, SIG_INIT_AGENT);
+	sigaddset(&sigset, SIG_ADD_CORES_DDS);
+	sigaddset(&sigset, SIG_REM_CORES_DDS);
+	sigaddset(&sigset, SIG_INIT_FAR_REQ);
+	sigaddset(&sigset, SIG_FAR_REQ);
+	sigaddset(&sigset, SIG_APPOINT_WORK);
+	sigaddset(&sigset, SIG_CHECK_REM_TIME);
+	sigaddset(&sigset, SIG_FINISH);
+	sigaddset(&sigset, SIG_REJECT);
+	sigaddset(&sigset, SIG_REMOVE_FAR_MAN);*/
+	sigaddset(&sigset, SIG_TIMER);
+	
+	if (sigprocmask(SIG_BLOCK, &sigset, NULL) < 0) {
+		perror("signals_disable: sigprocmask");
+		exit(1);
+	}
+}
+
+/* Enable delivery of SIG_INIT and SIG_ACK.  */
+void
+signals_enable(void)
+{
+	sigset_t sigset;
+
+	sigemptyset(&sigset);
+	/*sigaddset(&sigset, SIG_INIT);
+	sigaddset(&sigset, SIG_ACK);
+	sigaddset(&sigset, SIG_TERMINATE);
+	sigaddset(&sigset, SIG_INIT_APP);
+	sigaddset(&sigset, SIG_IDAG_FIND_IDAGS);
+	sigaddset(&sigset, SIG_REQ_DDS);
+	sigaddset(&sigset, SIG_REQ_CORES);
+	sigaddset(&sigset, SIG_REP_OFFERS);
+	sigaddset(&sigset, SIG_INIT_AGENT);
+	sigaddset(&sigset, SIG_ADD_CORES_DDS);
+	sigaddset(&sigset, SIG_REM_CORES_DDS);
+	sigaddset(&sigset, SIG_INIT_FAR_REQ);
+	sigaddset(&sigset, SIG_FAR_REQ);
+	sigaddset(&sigset, SIG_APPOINT_WORK);
+	sigaddset(&sigset, SIG_CHECK_REM_TIME);
+	sigaddset(&sigset, SIG_FINISH);
+	sigaddset(&sigset, SIG_REJECT);
+	sigaddset(&sigset, SIG_REMOVE_FAR_MAN);*/		
+	sigaddset(&sigset, SIG_TIMER);
+
+	if (sigprocmask(SIG_UNBLOCK, &sigset, NULL) < 0) {
+		perror("signals_enable: sigprocmask");
+		exit(1);
+	}
+}
+
+/*void
+sig_SEGV_enable(void)
+{
+	sigset_t sigset;
+	sigaddset(&sigset, SIGSEGV);		
+	if (sigprocmask(SIG_UNBLOCK, &sigset, NULL) < 0) {
+		perror("signals_enable: sigprocmask");
+		exit(1);
+	}
+}*/
+/* Install two signal handlers.
+ * One for SIGCHLD, one for SIGALRM.
+ * Make sure both signals are masked when one of them is running.
+ */
+void
+install_signal_handlers(void)
+{
+	sigset_t sigset;
+	struct sigaction sa;
+
+	//sa.sa_handler = sigUSR1_handler;
+	sa.sa_flags = SA_RESTART | SA_SIGINFO;
+	sigemptyset(&sigset);
+	/*sigaddset(&sigset, SIG_INIT);
+	sigaddset(&sigset, SIG_ACK);
+	sigaddset(&sigset, SIG_TERMINATE);
+	sigaddset(&sigset, SIG_INIT_APP);
+	sigaddset(&sigset, SIG_IDAG_FIND_IDAGS);
+	sigaddset(&sigset, SIG_REQ_DDS);
+	sigaddset(&sigset, SIG_REQ_CORES);	
+	sigaddset(&sigset, SIG_REP_OFFERS);
+	sigaddset(&sigset, SIG_INIT_AGENT);
+	sigaddset(&sigset, SIG_ADD_CORES_DDS);
+	sigaddset(&sigset, SIG_REM_CORES_DDS);
+	sigaddset(&sigset, SIG_INIT_FAR_REQ);
+	sigaddset(&sigset, SIG_FAR_REQ);
+	sigaddset(&sigset, SIG_APPOINT_WORK);
+	sigaddset(&sigset, SIGSEGV);
+	sigaddset(&sigset, SIG_CHECK_REM_TIME);	
+	sigaddset(&sigset, SIG_FINISH);	
+	sigaddset(&sigset, SIG_REJECT);
+	sigaddset(&sigset, SIG_REMOVE_FAR_MAN);*/	
+	sa.sa_mask = sigset;
+	
+	/*sa.sa_sigaction = sig_INIT_handler;		
+	if (sigaction(SIG_INIT, &sa, NULL) < 0) {
+		perror("sigaction: sig_INIT");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_ACK_handler;
+	if (sigaction(SIG_ACK, &sa, NULL) < 0) {
+		perror("sigaction: sig_ack");
+		exit(1);
+	}
+	
+	sa.sa_sigaction = sig_TERMINATE_handler;
+	if (sigaction(SIG_TERMINATE, &sa, NULL) < 0) {
+		perror("sigaction: sig_term");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_INIT_APP_handler;
+	if (sigaction(SIG_INIT_APP, &sa, NULL) < 0) {
+		perror("sigaction: sig_INIT_APP");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_IDAG_FIND_IDAGS_handler;
+	if (sigaction(SIG_IDAG_FIND_IDAGS, &sa, NULL) < 0) {
+		perror("sigaction: sig_INIT_APP");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_REQ_DDS_handler;
+	if (sigaction(SIG_REQ_DDS, &sa, NULL) < 0) {
+		perror("sigaction: sig_INIT_APP");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_REQ_CORES_handler;
+	if (sigaction(SIG_REQ_CORES, &sa, NULL) < 0) {
+		perror("sigaction: sig_INIT_APP");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_REP_OFFERS_handler;
+	if (sigaction(SIG_REP_OFFERS, &sa, NULL) < 0) {
+		perror("sigaction: sig_ALARM");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_INIT_AGENT_handler;
+	if (sigaction(SIG_INIT_AGENT, &sa, NULL) < 0) {
+		perror("sigaction: SIG_INIT_AGENT");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_ADD_CORES_DDS_handler;
+	if (sigaction(SIG_ADD_CORES_DDS, &sa, NULL) < 0) {
+		perror("sigaction: SIG_ADD_CORES_DDS");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_REM_CORES_DDS_handler;
+	if (sigaction(SIG_REM_CORES_DDS, &sa, NULL) < 0) {
+		perror("sigaction: SIG_REM_CORES_DDS");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_FAR_REQ_handler;
+	if (sigaction(SIG_INIT_FAR_REQ, &sa, NULL) < 0) {
+		perror("sigaction: SIG_INIT_FAR_REQ");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_FAR_REQ_handler;
+	if (sigaction(SIG_FAR_REQ, &sa, NULL) < 0) {
+		perror("sigaction: SIG_FAR_REQ");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_APPOINT_WORK_handler;
+	if (sigaction(SIG_APPOINT_WORK, &sa, NULL) < 0) {
+		perror("sigaction: SIG_INIT_RUNNING");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_SEGV_handler;
+	if (sigaction(SIGSEGV, &sa, NULL) < 0) {
+		perror("sigaction: SIGSEGV");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_CHECK_REM_TIME_handler;
+	if (sigaction(SIG_CHECK_REM_TIME, &sa, NULL) < 0) {
+		perror("sigaction: SIG_CHECK_REM_TIME");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_FINISH_handler;
+	if (sigaction(SIG_FINISH, &sa, NULL) < 0) {
+		perror("sigaction: SIGSEGV");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_REJECT_handler;
+	if (sigaction(SIG_REJECT, &sa, NULL) < 0) {
+		perror("sigaction: SIG_REJECT");
+		exit(1);
+	}
+
+	sa.sa_sigaction = sig_REMOVE_FAR_MAN_handler;
+	if (sigaction(SIG_REMOVE_FAR_MAN, &sa, NULL) < 0) {
+		perror("sigaction: SIG_REMOVE_FAR_MAN");
+		exit(1);
+	}*/
+
+	sa.sa_sigaction = sig_TIMER_handler;
+	if (sigaction(SIG_TIMER, &sa, NULL) < 0) {
+		perror("sigaction: SIG_TIMER");
+		exit(1);
+	}
+
+	/*
+	 * Ignore SIGPIPE, so that write()s to pipes
+	 * with no reader do not result in us being killed,
+	 * and write() returns EPIPE instead.
+	 */
+	/*if (signal(SIGPIPE, SIG_IGN) < 0) {
+		perror("signal: sigpipe");
+		exit(1);
+	}*/
+}

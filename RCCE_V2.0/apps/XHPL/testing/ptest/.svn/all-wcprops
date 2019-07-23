@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/ptest
+END
+HPL_pdtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/ptest/HPL_pdtest.c
+END
+HPL.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/ptest/HPL.dat
+END
+RCCE_MPI.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/ptest/RCCE_MPI.c
+END
+HPL_pddriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/ptest/HPL_pddriver.c
+END
+HPL_pdinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/testing/ptest/HPL_pdinfo.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/ECOQ
+END
+RCCE_pwr_wq_framework.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/ECOQ/RCCE_pwr_wq_framework.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/ECOQ/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/ECOQ/README
+END
+RCCE_pwr_wq.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/ECOQ/RCCE_pwr_wq.h
+END
+RCCE_eco_q.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/ECOQ/RCCE_eco_q.c
+END

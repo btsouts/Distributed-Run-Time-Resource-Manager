@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/common
+END
+c_print_results.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/common/c_print_results.c
+END
+c_timers.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/common/c_timers.c
+END
+randdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/common/randdp.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/common/common.h
+END

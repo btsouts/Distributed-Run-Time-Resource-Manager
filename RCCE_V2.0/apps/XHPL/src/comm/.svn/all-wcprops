@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/comm
+END
+HPL_binit.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/comm/HPL_binit.c
+END
+HPL_bwait.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/comm/HPL_bwait.c
+END
+HPL_copyL.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/comm/HPL_copyL.c
+END
+HPL_send.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/comm/HPL_send.c
+END
+HPL_packL.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/comm/HPL_packL.c
+END
+HPL_bcast.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/comm/HPL_bcast.c
+END
+HPL_sdrv.c-orig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/comm/HPL_sdrv.c-orig
+END
+HPL_sdrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/comm/HPL_sdrv.c
+END
+HPL_recv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/comm/HPL_recv.c
+END
+HPL_1ring.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/comm/HPL_1ring.c
+END

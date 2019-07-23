@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU
+END
+exchange_6.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/exchange_6.c
+END
+proc_grid.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/proc_grid.c
+END
+directions.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/directions.h
+END
+timers.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/timers.h
+END
+jacld.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/jacld.c
+END
+buts.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/buts.c
+END
+subdomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/subdomain.c
+END
+jacu.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/jacu.c
+END
+ssor.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/ssor.c
+END
+applu.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/applu.h
+END
+read_input.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/read_input.c
+END
+setiv.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/setiv.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/Makefile
+END
+setcoeff.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/setcoeff.c
+END
+erhs.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/erhs.c
+END
+verify.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/verify.c
+END
+exact.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/exact.c
+END
+applu_share.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/applu_share.h
+END
+l2norm.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/l2norm.c
+END
+print_results.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/print_results.c
+END
+init_comm.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/init_comm.c
+END
+nodedim.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/nodedim.c
+END
+lu.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/lu.c
+END
+neighbors.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/neighbors.c
+END
+setbv.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/setbv.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/error.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/README.txt
+END
+applu_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/applu_macros.h
+END
+rhs.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/rhs.c
+END
+applu_protos.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/applu_protos.h
+END
+exchange_1.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/exchange_1.c
+END
+pintgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/pintgr.c
+END
+timers.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/timers.c
+END
+blts.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/blts.c
+END
+exchange_3.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/exchange_3.c
+END
+exchange_4.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/exchange_4.c
+END
+exchange_5.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/NPB/LU/exchange_5.c
+END

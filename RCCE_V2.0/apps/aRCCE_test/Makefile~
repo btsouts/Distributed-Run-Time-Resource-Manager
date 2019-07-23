@@ -1,0 +1,19 @@
+SHELL=sh
+RCCEROOT=../..
+include $(RCCEROOT)/common/symbols
+
+OBJS=RCCE_test.o  $(ARCHIVE)
+
+default:
+	@echo "Usage: make pingpong "
+	@echo "       make pingpong-xt "
+	@echo "       make clean"
+
+rcce_synch_test: $(OBJS)
+	$(CCOMPILE) -o rcce_synch_test $(OBJS) $(CFLAGS)
+
+RCCE_test.o: RCCE_test.c $(RCCEINCLUDE)/RCCE.h
+	$(CCOMPILE) -c $(CFLAGS) RCCE_test.c  
+
+clean:
+	@ rm -f *.o  pingpong pingpong-xt

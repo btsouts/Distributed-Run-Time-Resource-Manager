@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/hosts
+END
+rc.hosts.mcemu12
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/hosts/rc.hosts.mcemu12
+END
+rc.hosts.mcemu4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/hosts/rc.hosts.mcemu4
+END
+rc.pwrhosts
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/hosts/rc.pwrhosts
+END
+rc.hosts.split
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/hosts/rc.hosts.split
+END
+rc.hosts-Vdom1+core4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/hosts/rc.hosts-Vdom1+core4
+END
+rc.hosts.mcemu8
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/hosts/rc.hosts.mcemu8
+END
+rc.hosts-orig
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/hosts/rc.hosts-orig
+END
+rc.hosts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/hosts/rc.hosts
+END
+rc.hosts.tail8
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/hosts/rc.hosts.tail8
+END
+rc.hosts.copperridge
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/hosts/rc.hosts.copperridge
+END
+rc.pingponghosts
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/hosts/rc.pingponghosts
+END
+rc.hosts.evenodd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/hosts/rc.hosts.evenodd
+END

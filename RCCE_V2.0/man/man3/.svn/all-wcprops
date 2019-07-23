@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3
+END
+RCCE_bcast.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_bcast.3
+END
+RCCE_recv_test.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_recv_test.3
+END
+RCCE_recv.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_recv.3
+END
+RCCE_finalize.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_finalize.3
+END
+RCCE_debug_unset.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_debug_unset.3
+END
+RCCE_flag_read.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_flag_read.3
+END
+RCCE_reduce.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_reduce.3
+END
+RCCE_flag_free.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_flag_free.3
+END
+RCCE_num_ues.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_num_ues.3
+END
+RCCE_shflush.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_shflush.3
+END
+RCCE_power_domain_size.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_power_domain_size.3
+END
+RCCE_malloc_request.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_malloc_request.3
+END
+RCCE_error_string.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_error_string.3
+END
+RCCE_get.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_get.3
+END
+RCCE_iset_power.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_iset_power.3
+END
+RCCE_wait_power.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_wait_power.3
+END
+RCCE_set_frequency_divider.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_set_frequency_divider.3
+END
+RCCE_power_domain.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_power_domain.3
+END
+RCCE_flag_alloc.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_flag_alloc.3
+END
+RCCE_flag_write.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_flag_write.3
+END
+RCCE_comm_size.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_comm_size.3
+END
+RCCE_barrier.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_barrier.3
+END
+RCCE_power_domain_master.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_power_domain_master.3
+END
+RCCE_debug_set.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_debug_set.3
+END
+RCCE_shmalloc.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_shmalloc.3
+END
+RCCE_init.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_init.3
+END
+RCCE_comm_rank.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_comm_rank.3
+END
+RCCE_comm_split.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_comm_split.3
+END
+RCCE_malloc.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_malloc.3
+END
+RCCE_put.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_put.3
+END
+RCCE_ue.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_ue.3
+END
+RCCE_shfree.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_shfree.3
+END
+RCCE_wait_until.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_wait_until.3
+END
+RCCE_fence.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_fence.3
+END
+RCCE_free.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_free.3
+END
+RCCE_wtime.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_wtime.3
+END
+RCCE_send.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/man/man3/RCCE_send.3
+END

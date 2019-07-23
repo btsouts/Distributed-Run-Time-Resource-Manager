@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas
+END
+xerbla.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/xerbla.c
+END
+dcopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/dcopy.c
+END
+dswap.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/dswap.c
+END
+f2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/f2c.h
+END
+dger.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/dger.c
+END
+HPL_dswap.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/HPL_dswap.c
+END
+HPL_dcopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/HPL_dcopy.c
+END
+isamax.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/isamax.c
+END
+HPL_dger.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/HPL_dger.c
+END
+daxpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/daxpy.c
+END
+dscal.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/dscal.c
+END
+HPL_daxpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/HPL_daxpy.c
+END
+dgemm.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/dgemm.c
+END
+HPL_dscal.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/HPL_dscal.c
+END
+dtrsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/dtrsm.c
+END
+HPL_dtrsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/HPL_dtrsm.c
+END
+HPL_dgemm.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/HPL_dgemm.c
+END
+lsame.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/lsame.c
+END
+dgemv.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/dgemv.c
+END
+dtrsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/dtrsv.c
+END
+idamax.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/idamax.c
+END
+HPL_dtrsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/HPL_dtrsv.c
+END
+HPL_dgemv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/HPL_dgemv.c
+END
+HPL_idamax.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repository/!svn/ver/297/tags/RCCE_V2.0/apps/XHPL/src/blas/HPL_idamax.c
+END
